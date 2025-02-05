@@ -21,15 +21,6 @@ A **Full Stack Task Manager App** built with **React (Frontend)**, **Node.js (Ba
 
 ---
 
-## 📂 Folder Structure
-TaskManager/ │── backend/ # Node.js & Express backend │ ├── models/ # Mongoose models │ ├── routes/ # API routes │ ├── controllers/ # Business logic │ ├── server.js # Entry point for backend │── frontend/ # React frontend │ ├── src/ # React components │ ├── public/ # Static files │ ├── App.js # Main React App │ ├── index.js # React entry point │── .gitignore # Ignore unnecessary files │── README.md # Project documentation │── package.json # Dependencies for frontend/backend │── .env # Environment variables (not included)
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Installation & Setup
 
 ### **1️⃣ Clone the Repository**
